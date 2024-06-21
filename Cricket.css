@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+div{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(209, 194, 173);
+    border-style: none;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.btn1{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(225, 137, 21);
+    border-style: none;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.btn2{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(148, 124, 92);
+    border-style: none;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.btn3{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(229, 138, 18);
+    border-style: none;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+h1{
+    margin-top: 20px;
+}
+
+.game{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-right: 35%;
+    margin-left: 20%;
+
+}
+
+.choice-bat{
+    height: 150px;
+    width: 200px;
+}
+.choice-ball{
+    height: 150px;
+    width: 150px;
+}
+.choice-stump{
+    height: 150px;
+    width: 150px;
+}
